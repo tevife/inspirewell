@@ -1,3 +1,3 @@
 # Inspire Wellness
 
-Pinterest-style wellness platform built with Next.js and Firebase.
+Plataforma estilo Pinterest voltada para bem-estar, construída com Next.js e Firebase.

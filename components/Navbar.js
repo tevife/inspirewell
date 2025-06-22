@@ -1,1 +1,0 @@
-// Navbar with login/logout and theme switcher

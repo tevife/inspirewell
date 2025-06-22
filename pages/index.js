@@ -1,1 +1,0 @@
-// Home page with Pinterest-style feed

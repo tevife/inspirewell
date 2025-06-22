@@ -26,4 +26,5 @@ export default function AdminPanel() {
       <input type="file" onChange={e => setFile(e.target.files[0])} className="border p-2 w-full"/>
       <button type="submit" className="bg-blue-500 text-white p-2 rounded">Adicionar Post</button>
     </form>
+  );
 }
